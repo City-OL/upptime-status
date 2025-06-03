@@ -8,7 +8,7 @@ workflowSchedule:
 
 sites:
   - name: city-ol.ch
-    url: htts://city-ol.ch/
+    url: https://city-ol.ch/
   - name: cityol.ch
     url: https://cityol.ch
   - name: city-ol-brugg.com
