@@ -2,10 +2,6 @@
 owner: upptime # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
-workflowSchedule:
-  graphs: "0 0 * * *"
-  uptime: "*/30 * * * *"
-
 sites:
   - name: city-ol.ch
     url: https://city-ol.ch/
