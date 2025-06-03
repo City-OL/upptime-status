@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/city-ol.ch.ico",
     "slug": "city-ol-ch",
     "status": "up",
-    "uptime": "3.83%",
-    "uptimeDay": "3.83%",
-    "uptimeWeek": "3.83%",
-    "uptimeMonth": "3.83%",
-    "uptimeYear": "3.83%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 383,
     "timeDay": 383,
     "timeWeek": 383,
     "timeMonth": 383,
     "timeYear": 383,
-    "dailyMinutesDown": {
-      "2025-06-03": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "cityol.ch",
