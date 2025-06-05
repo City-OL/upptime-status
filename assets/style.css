@@ -1,0 +1,16 @@
+:root {
+  --body-background-color: rgb(241, 245, 249);
+  --body-text-color: rgb(55, 65, 81);
+  --card-background-color: rgb(255, 255, 255);
+  --nav-background-color: rgb(255, 255, 255);
+  --nav-border-bottom-color: transparent;
+}
+
+article {
+  border-radius: 8px;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+nav {
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
