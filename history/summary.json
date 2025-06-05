@@ -22,18 +22,20 @@
     "url": "https://cityol.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cityol.ch.ico",
     "slug": "cityol-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1307,
-    "timeDay": 2156,
-    "timeWeek": 1307,
-    "timeMonth": 1307,
-    "timeYear": 1307,
-    "dailyMinutesDown": {}
+    "time": 1245,
+    "timeDay": 1946,
+    "timeWeek": 1245,
+    "timeMonth": 1245,
+    "timeYear": 1245,
+    "dailyMinutesDown": {
+      "2025-06-05": 0
+    }
   },
   {
     "name": "city-ol-brugg.com",
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 328,
-    "timeWeek": 334,
-    "timeMonth": 334,
-    "timeYear": 334,
+    "time": 326,
+    "timeDay": 312,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   }
 ]
