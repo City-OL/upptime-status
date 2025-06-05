@@ -13,12 +13,14 @@ sites:
     url: https://app.city-ol.ch
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.city-ol.ch
-  # baseUrl: /your-repo-name
-  logoUrl: https://city-ol.ch/logo.svg
   name: City-OL Status
+  cname: status.city-ol.ch
+  logoUrl: https://status.city-ol.ch/logo.svg
+  favicon: https://status.city-ol.ch/favicon.png
+  themeUrl: https://status.city-ol.ch/theme.css
+  links:
+    - rel: stylesheet
+      href: https://status.city-ol.ch/styles.css
 
 assignees:
   - timmedia
