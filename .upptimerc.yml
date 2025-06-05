@@ -21,6 +21,11 @@ status-website:
   links:
     - rel: stylesheet
       href: https://status.city-ol.ch/styles.css
+  navbar:
+    - title: Website
+      href: https://city-ol.ch
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 assignees:
   - timmedia
