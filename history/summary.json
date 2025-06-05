@@ -33,7 +33,9 @@
     "timeWeek": 475,
     "timeMonth": 475,
     "timeYear": 475,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 0
+    }
   },
   {
     "name": "city-ol-brugg.com",
