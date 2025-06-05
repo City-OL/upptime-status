@@ -9,11 +9,19 @@ article {
 }
 
 nav {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
   box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+main.container {
+  max-width: 1088px !important;
 }
 
 a.logo > img {
   height: 26.4px !important;
+}
+
+nav > div.container {
+  max-width: 1088px !important;
 }
