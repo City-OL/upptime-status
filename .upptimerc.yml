@@ -12,14 +12,26 @@ workflowSchedule:
   uptime: "*/30 * * * *"
 
 sites:
-  - name: city-ol.ch
-    url: https://city-ol.ch/
-  - name: cityol.ch
-    url: https://cityol.ch
-  - name: city-ol-brugg.com
-    url: https://city-ol-brugg.com
-  - name: app.city-ol.ch
+  - name: Web App (app.city-ol.ch)
     url: https://app.city-ol.ch
+    slug: webapp
+  - name: Backend
+    url: $CITY_OL_BACKEND_URL
+    icon: https://status.city-ol.ch/favicon.png
+    slug: backend
+  - name: Tile Server
+    url: $CITY_OL_TILE_SERVER_URL
+    icon: https://status.city-ol.ch/favicon.png
+    slug: tile-server
+  - name: Website (city-ol.ch)
+    url: https://city-ol.ch/
+    slug: website
+  - name: Website Alias (cityol.ch)
+    url: https://cityol.ch
+    slug: website-alias-cityol
+  - name: Website Alias (city-ol-brugg.com)
+    url: https://city-ol-brugg.com
+    slug: website-alias-cityolbrugg
 
 status-website:
   name: City-OL Status
