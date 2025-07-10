@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 52,
+      "2025-07-10": 697,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 52,
+      "2025-07-10": 697,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -148,9 +148,9 @@
     "url": "https://cityol.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cityol.ch.ico",
     "slug": "website-alias-cityol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,7 +159,9 @@
     "timeWeek": 589,
     "timeMonth": 541,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "Website Alias (city-ol-brugg.com)",
