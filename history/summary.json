@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-11": 52,
+      "2025-07-11": 270,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
@@ -89,7 +89,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-11": 52,
+      "2025-07-11": 270,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
@@ -150,9 +150,9 @@
     "url": "https://cityol.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cityol.ch.ico",
     "slug": "website-alias-cityol",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "96.95%",
+    "uptimeDay": "96.94%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
@@ -162,6 +162,7 @@
     "timeMonth": 535,
     "timeYear": 544,
     "dailyMinutesDown": {
+      "2025-07-11": 0,
       "2025-07-10": 44
     }
   },
