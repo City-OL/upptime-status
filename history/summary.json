@@ -4,10 +4,10 @@
     "url": "https://app.city-ol.ch",
     "icon": "https://icons.duckduckgo.com/ip3/app.city-ol.ch.ico",
     "slug": "webapp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 356,
@@ -16,7 +16,7 @@
     "timeMonth": 365,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2025-11-03": 25
+      "2025-11-03": 26
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-03": 1030,
+      "2025-11-03": 1125,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -206,7 +206,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-03": 1030,
+      "2025-11-03": 1125,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -364,10 +364,10 @@
     "url": "https://city-ol.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/city-ol.ch.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
@@ -375,7 +375,9 @@
     "timeWeek": 353,
     "timeMonth": 334,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-03": 1
+    }
   },
   {
     "name": "Website Alias (cityol.ch)",
