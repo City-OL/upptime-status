@@ -4,9 +4,9 @@
     "url": "https://app.city-ol.ch",
     "icon": "https://icons.duckduckgo.com/ip3/app.city-ol.ch.ico",
     "slug": "webapp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 320,
     "timeMonth": 367,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-03": 0
+    }
   },
   {
     "name": "Backend",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-03": 51,
+      "2025-11-03": 1005,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -204,7 +206,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-03": 51,
+      "2025-11-03": 1005,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
