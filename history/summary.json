@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 368,
-    "timeDay": 407,
-    "timeWeek": 428,
-    "timeMonth": 367,
-    "timeYear": 368,
+    "time": 367,
+    "timeDay": 347,
+    "timeWeek": 450,
+    "timeMonth": 365,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2025-11-03": 49
     }
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-19": 68,
+      "2026-02-20": 64,
+      "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -314,7 +315,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-19": 68,
+      "2026-02-20": 64,
+      "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -586,11 +588,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 353,
-    "timeDay": 420,
-    "timeWeek": 372,
-    "timeMonth": 382,
-    "timeYear": 353,
+    "time": 354,
+    "timeDay": 506,
+    "timeWeek": 393,
+    "timeMonth": 379,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2025-11-03": 24
     }
@@ -601,15 +603,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cityol.ch.ico",
     "slug": "website-alias-cityol",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 502,
-    "timeDay": 557,
-    "timeWeek": 414,
-    "timeMonth": 429,
+    "timeDay": 515,
+    "timeWeek": 451,
+    "timeMonth": 422,
     "timeYear": 502,
     "dailyMinutesDown": {
       "2025-08-25": 21,
@@ -632,9 +634,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 419,
-    "timeWeek": 270,
-    "timeMonth": 312,
+    "timeDay": 465,
+    "timeWeek": 309,
+    "timeMonth": 316,
     "timeYear": 331,
     "dailyMinutesDown": {}
   }
