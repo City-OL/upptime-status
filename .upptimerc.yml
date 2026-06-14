@@ -16,11 +16,11 @@ sites:
     url: https://app.city-ol.ch
     slug: webapp
   - name: Backend
-    url: $CITY_OL_BACKEND_URL
+    url: https://europe-west6-city-ol.cloudfunctions.net/status
     icon: https://status.city-ol.ch/favicon.png
     slug: backend
   - name: Tile Server
-    url: $CITY_OL_TILE_SERVER_URL
+    url: https://city-ol-api1.web.app/tiles/v4/aarau/16/34238/22952.png
     icon: https://status.city-ol.ch/favicon.png
     slug: tile-server
   - name: Website (city-ol.ch)
