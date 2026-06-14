@@ -1,7 +1,7 @@
-url: $CITY_OL_TILE_SERVER_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-13T23:56:13.272Z
+url: https://city-ol-api1.web.app/tiles/v4/aarau/16/34238/22952.png
+status: up
+code: 200
+responseTime: 2854
+lastUpdated: 2026-06-14T10:11:24.003Z
 startTime: 2025-06-06T13:46:26.912Z
 generator: Upptime <https://github.com/upptime/upptime>
