@@ -25,11 +25,11 @@
     "icon": "https://status.city-ol.ch/favicon.png",
     "slug": "backend",
     "status": "up",
-    "uptime": "14.38%",
+    "uptime": "14.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.15%",
+    "uptimeYear": "17.34%",
     "time": 2100,
     "timeDay": 1521,
     "timeWeek": 1723,
@@ -346,11 +346,11 @@
     "icon": "https://status.city-ol.ch/favicon.png",
     "slug": "tile-server",
     "status": "up",
-    "uptime": "14.38%",
+    "uptime": "14.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.15%",
+    "uptimeYear": "17.34%",
     "time": 304,
     "timeDay": 119,
     "timeWeek": 595,
@@ -707,9 +707,9 @@
     "url": "https://city-ol-brugg.com",
     "icon": "https://icons.duckduckgo.com/ip3/city-ol-brugg.com.ico",
     "slug": "website-alias-cityolbrugg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -718,6 +718,8 @@
     "timeWeek": 548,
     "timeMonth": 515,
     "timeYear": 391,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-16": 0
+    }
   }
 ]
