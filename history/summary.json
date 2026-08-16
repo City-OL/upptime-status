@@ -707,19 +707,19 @@
     "url": "https://city-ol-brugg.com",
     "icon": "https://icons.duckduckgo.com/ip3/city-ol-brugg.com.ico",
     "slug": "website-alias-cityolbrugg",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 210,
-    "timeWeek": 548,
-    "timeMonth": 515,
+    "timeDay": 292,
+    "timeWeek": 526,
+    "timeMonth": 511,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2026-08-16": 0
+      "2026-08-16": 24
     }
   }
 ]
