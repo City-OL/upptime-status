@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 349,
-    "timeDay": 502,
-    "timeWeek": 354,
-    "timeMonth": 341,
+    "timeDay": 230,
+    "timeWeek": 325,
+    "timeMonth": 336,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-11-03": 49
@@ -25,16 +25,16 @@
     "icon": "https://status.city-ol.ch/favicon.png",
     "slug": "backend",
     "status": "up",
-    "uptime": "16.11%",
+    "uptime": "16.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.62%",
-    "time": 2080,
-    "timeDay": 2448,
-    "timeWeek": 2022,
-    "timeMonth": 1995,
-    "timeYear": 2080,
+    "uptimeYear": "19.89%",
+    "time": 2073,
+    "timeDay": 1563,
+    "timeWeek": 1968,
+    "timeMonth": 1967,
+    "timeYear": 2073,
     "dailyMinutesDown": {
       "2026-06-14": 611,
       "2026-06-13": 1440,
@@ -327,8 +327,7 @@
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
-      "2025-08-27": 1440,
-      "2025-08-26": 1440
+      "2025-08-27": 1440
     }
   },
   {
@@ -337,16 +336,16 @@
     "icon": "https://status.city-ol.ch/favicon.png",
     "slug": "tile-server",
     "status": "up",
-    "uptime": "16.11%",
+    "uptime": "16.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.62%",
-    "time": 280,
-    "timeDay": 69,
-    "timeWeek": 119,
-    "timeMonth": 211,
-    "timeYear": 280,
+    "uptimeYear": "19.89%",
+    "time": 278,
+    "timeDay": 148,
+    "timeWeek": 120,
+    "timeMonth": 213,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2026-06-14": 611,
       "2026-06-13": 1440,
@@ -639,8 +638,7 @@
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
-      "2025-08-27": 1440,
-      "2025-08-26": 1440
+      "2025-08-27": 1440
     }
   },
   {
@@ -654,10 +652,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 348,
-    "timeDay": 271,
-    "timeWeek": 342,
-    "timeMonth": 338,
+    "time": 347,
+    "timeDay": 274,
+    "timeWeek": 316,
+    "timeMonth": 327,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-11-03": 24
@@ -675,10 +673,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 525,
-    "timeDay": 600,
-    "timeWeek": 793,
-    "timeMonth": 742,
-    "timeYear": 520,
+    "timeDay": 527,
+    "timeWeek": 764,
+    "timeMonth": 726,
+    "timeYear": 521,
     "dailyMinutesDown": {}
   },
   {
@@ -692,11 +690,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 293,
-    "timeWeek": 506,
-    "timeMonth": 521,
-    "timeYear": 395,
+    "time": 385,
+    "timeDay": 734,
+    "timeWeek": 549,
+    "timeMonth": 530,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2026-08-16": 24
     }
